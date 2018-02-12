@@ -8,6 +8,9 @@ Sample website with plenty of files for demos
 
 ## Introduction
 
+Introduction text
+Url for source code
+
 ## How to Contribute
 
 This is a simple website.
