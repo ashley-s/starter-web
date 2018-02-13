@@ -14,3 +14,5 @@ Url for source code
 ## How to Contribute
 
 This is a simple website.
+
+GIT.training 2014
