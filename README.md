@@ -14,5 +14,6 @@ Url for source code
 ## How to Contribute
 
 This is a simple website.
+Adding dummy text
 
 GIT.training 2014
